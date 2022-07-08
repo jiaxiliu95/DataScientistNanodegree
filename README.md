@@ -2,9 +2,9 @@
 
 - [Installation](#Installation)
 
-- [Project Motivation](#Project Motivation)
+- [Project Motivation](#ProjectMotivation)
 
-- [File Descriptions](#File Descriptions)
+- [File Descriptions](#FileDescriptions)
 
 - [Results](#Results)
 
