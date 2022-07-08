@@ -36,6 +36,10 @@ Ideas and code for further exploration are also discussed at the end of the proj
 
 There is a notebook file, named "Airbnb-Seattle.ipynb", that includes the whole data analysis process following the guideline of CRISP-DM. You can find the answers to the above three questions following the section titles. The results are reproducible by running the code cells. The markdown cells are used to explain the individual steps and interpret the results.
 
+The .csv files are the Airbnb activity datasets. Only listings.csv and calendar.csv are used in this project. You can do further exploration using the other dataset.
+
+Census_tract_2010.shp is the shape file that stores the geographic data for drawing the map.
+
 There is another folder named image. Files in the folder are the visualizations obtained from the code.
 
 ## Results
