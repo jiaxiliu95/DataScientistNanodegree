@@ -40,7 +40,7 @@ There is another folder named image. Files in the folder are the visualizations 
 
 ## Results
 
-The main findings and detailed discussion can be found at the post here.
+The main findings and detailed discussion can be found at the post [here](https://medium.com/@jiaxi_liu/things-you-may-want-to-know-as-an-airbnb-host-in-seattle-abcd62986542).
 
 ## Acknowledgments
 
