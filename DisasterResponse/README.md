@@ -14,9 +14,9 @@ Disaster organizations need to filter and pull out the relevant and most importa
 The project trained a classifier using the historical messages taken after disasters and the categories that the messages belong to. The classifier can predict the categories that a new message most likely belongs to for disaster response.
 ## File Descriptions
 The structure of the project and the file descriptions are as follows.
-- app
+- [app](app)
 	- template
-		- master.html : main page of web app
+		- [master.html](app/template/master.html) : main page of web app
 		- go.html : classification result page of web app
 	- run.py : Flask file that runs the app
 	- img : include the images shown on the web page
@@ -39,8 +39,9 @@ The structure of the project and the file descriptions are as follows.
 
 ## Screenshot of the Web App
 1. Before typing in anything, the main page shows three visualizations that provides an overview of the training dataset.
-<!-- ![pic1](app/img/overview1.png) -->
-<img src="app/img/overview1.png" alt="drawing" width="100"/><img src="app/img/overview2.png" alt="drawing" width="100"/><img src="app/img/overview3.png" alt="drawing" width="100"/>
+2. 
+<img src="app/img/overview1.png" alt="drawing" width="300"/><img src="app/img/overview2.png" alt="drawing" width="300"/><img src="app/img/overview3.png" alt="drawing" width="300"/>
+
 2. To classify a new message, type in search box and click the "Classify Message" button. 
 
 The predicted categories are highlighted.
