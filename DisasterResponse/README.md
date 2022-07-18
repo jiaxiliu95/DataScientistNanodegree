@@ -27,7 +27,6 @@ The structure of the project and the file descriptions are as follows.
 	- DisasterResponse.db : database that stores clean data
 - models
 	- train_classifier.py : file that trains the classifier using cleaned data
-	- classifier.pkl : saved classifier
 - ETL Pipeline Preparation.ipynb : development process of process_data.py
 - ML Pipeline Preparation.ipynb : development process of train_classifier.py
 - requirements.txt : All  required libraries to run the code for this project
@@ -40,7 +39,7 @@ The structure of the project and the file descriptions are as follows.
 
 ## Screenshot of the Web App
 1. Before typing in anything, the main page shows three visualizations that provides an overview of the training dataset.
-
+![pic1](app\img\overview1.png)
 2. To classify a new message, type in search box and click the "Classify Message" button. 
 
 The predicted categories are highlighted.
