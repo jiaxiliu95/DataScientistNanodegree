@@ -39,7 +39,8 @@ The structure of the project and the file descriptions are as follows.
 
 ## Screenshot of the Web App
 1. Before typing in anything, the main page shows three visualizations that provides an overview of the training dataset.
-![pic1](app/img/overview1.png)
+<!-- ![pic1](app/img/overview1.png) -->
+<img src="app/img/overview1.png" alt="drawing" width="100"/>
 2. To classify a new message, type in search box and click the "Classify Message" button. 
 
 The predicted categories are highlighted.
