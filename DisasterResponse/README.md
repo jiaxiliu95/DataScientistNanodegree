@@ -27,8 +27,8 @@ The structure of the project and the file descriptions are as follows.
 	- [DisasterResponse.db](data/DisasterResponse.db) : database that stores clean data
 - [models](models)
 	- [train_classifier.py](models/train_classifier.py) : file that trains the classifier using cleaned data
-- [ETL Pipeline Preparation.ipynb](ETL Pipeline Preparation.ipynb) : development process of process_data.py
-- [ML Pipeline Preparation.ipynb](ML Pipeline Preparation.ipynb) : development process of train_classifier.py
+- [ETL Pipeline Preparation.ipynb](ETLPipelinePreparation.ipynb) : development process of process_data.py
+- [ML Pipeline Preparation.ipynb](MLPipelinePreparation.ipynb) : development process of train_classifier.py
 - [requirements.txt](requirements.txt) : All  required libraries to run the code for this project
 - [README.md](README.md)
 
@@ -41,15 +41,19 @@ The structure of the project and the file descriptions are as follows.
 ## Screenshot of the Web App
 1. Before typing in anything, the main page shows three visualizations that provides an overview of the training dataset.
 
-<img src="app/img/overview1.png" alt="drawing" width="500"/><img src="app/img/overview2.png" alt="drawing" width="500"/><img src="app/img/overview3.png" alt="drawing" width="500"/>
+<img src="app/img/overview1.png" alt="drawing" width="700"/>
+
+<img src="app/img/overview2.png" alt="drawing" width="700"/>
+
+<img src="app/img/overview3.png" alt="drawing" width="700"/>
 
 2. To classify a new message, type in search box and click the "Classify Message" button. 
 
-<img src="app/img/predict.png" alt="drawing" width="500"/>
+<img src="app/img/predict.png" alt="drawing" width="700"/>
 
 The predicted categories are highlighted.
 
-<img src="app/img/results.png" alt="drawing" width="500"/>
+<img src="app/img/results.png" alt="drawing" width="700"/>
 
 ## Acknowledgments
 The disaster data are from [Appen](https://appen.com/#data_for_ai). The skeleton code for this web app is provided by [Udacity Data Scientist Nanodegree](https://www.udacity.com/course/data-scientist-nanodegree--nd025).
