@@ -2,8 +2,8 @@
 
 ## Table of Contents
 - [Installation](#Installation)
-- [Project Motivation](#Project Motivation)
-- [File Descriptions](#File Descriptions)
+- [Project Motivation](#ProjectMotivation)
+- [File Descriptions](#FileDescriptions)
 - [Instructions](#Instructions)
 - [Acknowledgments](#Acknowledgments)
 ## Installation
