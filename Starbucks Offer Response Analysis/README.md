@@ -25,7 +25,7 @@ The structure of the project and the file descriptions are as follows.
 	- [profile.json](data/profile.json) : contains demographic data of the customers (age, gender, income, etc.)
 	- [transcript.json](data/transcript.json) : contains all transactions the customers made, all offers that the customers received, viewed and completed.
 - [img](img) : contains the visulization results
-- [Analysis_of_Customer_Response_to_Starbucks_Offers.ipynb](Analysis_of_Customer_Response_to_Starbucks_Offers.ipynb) : the Jupyter Notebook that performs the analysis
+- [Starbucks_Offer_Response_Analysis.ipynb](Starbucks_Offer_Response_Analysis.ipynb) : the Jupyter Notebook that performs the analysis
 - [requirements.txt](requirements.txt) : All  required libraries to run the code for this project
 - [README.md](README.md)
 ## Results
